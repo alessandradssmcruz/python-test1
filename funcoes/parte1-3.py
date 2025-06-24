@@ -5,7 +5,9 @@ def exibir_poema(data_extenso, *args, **kwargs):
     print(mensagem)
 
 
-exibir_poema("Zen of Python", "Beautiful is better than ugly.",
+exibir_poema("1 de agosto de 2023",
+             "Zen of Python", 
+             "Beautiful is better than ugly.",
              "Explicit is better than implicit",
               "Simple is better than complex.",
               "Complex is better than complicated.", 
