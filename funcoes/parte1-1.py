@@ -6,5 +6,5 @@ def retornar_antecessor_e_sucessor(numero):
     sucessor = numero + 1
     return antecessor, sucessor
 
-calcular_total([1, 2, 3, 4, 5])  # Exemplo de uso da função calcular_total
-retornar_antecessor_e_sucessor(10)
+print(calcular_total([1, 2, 3, 4, 5]))  # Exemplo de uso da função calcular_total
+print(retornar_antecessor_e_sucessor(10))
