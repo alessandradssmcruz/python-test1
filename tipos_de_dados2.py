@@ -1,8 +1,0 @@
-int()
-float()
-str()
-bool()
-list()
-dict()
-tuple()
-set()
